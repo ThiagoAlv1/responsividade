@@ -14,10 +14,10 @@
   /* A partir do momento que usamos o display flex, eles mudam o comportamento, ficando um do lado do outro. */
 
   /* Também temos alguns comportamentos, mudando com o flex-diretion. EX: row | row-reverse | column | column-reverse */
-  flex-direction: row;
+  flex-direction: column;
 
-  /* Apesar de o flex forçar a ficar tudo em uma linha, temos uma forma de quebrar para as linhas abaixo, utilizando o wrap */
-  flex-wrap: wrap;
+
+
 }
 
 .item {
